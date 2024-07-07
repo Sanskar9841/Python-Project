@@ -1,7 +1,0 @@
-with python 
-read Amazon.html and parse it with BeautifulSoup
-
-div class="puis-card-container s-card-container s-overflow-hidden aok-relative puis-include-content-margin puis puis-vgvrqzb9qhw04209lhl7wx6b1b s-latency-cf-section puis-card-border
-span class="a-size-medium a-color-base a-text-normal"
-span class="a-price-whole"
-i class="a-icon a-icon-star-small a-star-small-4 aok-align-bottom"
